@@ -239,7 +239,7 @@ a[data-lightbox] {
 h1, h2, h3, h4, h5, h6, p, label, .btn, a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #141414!important;
 }
 
 .container {
@@ -332,7 +332,7 @@ h1 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C84D14;
 }
 
 .tc-white {
@@ -340,7 +340,7 @@ h1 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C84D14;
     color: #FFFFFF!important;
 }
 
