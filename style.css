@@ -291,6 +291,10 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
+h1 {
+    color:black!important;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
