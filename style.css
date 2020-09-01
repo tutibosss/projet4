@@ -493,6 +493,9 @@ h1 {
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none!important;
     }
+    .center-image{
+        margin: auto;
+    }
 }
 
 @media (max-width: 400px) {
