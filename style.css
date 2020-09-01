@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6, p, label, .btn, a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -292,7 +292,7 @@ h3 {
 }
 
 h1 {
-    color:black!important;
+    color: #141414!important;
 }
 
 .icons {
@@ -333,6 +333,10 @@ h1 {
 
 .bgc-atomic-tangerine {
     background-color: #C84D14;
+}
+
+.bgc-atomic-tangerine2 {
+    background-color: #EE8453;
 }
 
 .tc-white {
