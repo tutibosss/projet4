@@ -239,10 +239,6 @@ textarea.form-control {
     width: 100%
 }
 
-.collapse {
-    display: none
-}
-
 .collapse.in {
     display: block
 }
@@ -436,6 +432,10 @@ textarea.form-control {
     .col-sm-3 {
         width: 25%
     }
+}
+
+.a-nav{
+    text-align: center;
 }
 
 @media (min-width: 992px) {

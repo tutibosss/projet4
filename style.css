@@ -256,7 +256,16 @@ p {
 
 .p-conv-image{
     font-size: 22px;
-    width: 70%
+    width: 70%;
+}
+
+.p-conv-image-comentaire{
+    font-style: italic;
+}
+
+.p-conv-image-comentaire span{
+    font-style: normal;
+    font-size: 16px;
 }
 
 .centre-block{
